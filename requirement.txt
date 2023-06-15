@@ -1,0 +1,7 @@
+numpy
+cv2
+time
+imutils
+scipy
+tensorflow
+concurrent
